@@ -1,4 +1,4 @@
-FROM python:2-alpine3.7
+FROM tsrivishnu/for-rpi_alpine3.7_python:2.7
 
 ENTRYPOINT [ "certbot" ]
 EXPOSE 80 443

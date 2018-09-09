@@ -1,4 +1,4 @@
-FROM certbot/certbot
+FROM tsrivishnu/for-rpi_alpine3.7_certbot
 
 COPY . src/certbot-dns-digitalocean
 
