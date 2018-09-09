@@ -1,4 +1,4 @@
-REPO ?= tsrivishnu/for-rpi_alpine3.7_certbot-dns-digitalocean
+REPO ?= forrpi/certbot-dns-digitalocean
 TAG  ?= 0.26.1
 
 build: Dockerfile

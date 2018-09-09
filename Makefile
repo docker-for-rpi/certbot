@@ -1,4 +1,4 @@
-REPO ?= tsrivishnu/for-rpi_alpine3.7_certbot
+REPO ?= forrpi/certbot
 TAG  ?= 0.26.1
 
 build: Dockerfile
